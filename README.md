@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/SwirX"><img title="Made in Morocco" src="https://img.shields.io/badge/Extension-SX--Paste-green?style=plastic"></a>
-<a href="https://github.com/SwirX/SX-Paste"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-green?style=plastic"></a>
+<a href="https://github.com/SwirX/SX-Paste"><img title="Version" src="https://img.shields.io/badge/Version-1.1.5-green?style=plastic"></a>
 <a href="http://www.instagram.com/swirxyt"><img title="Maintainence" src="https://img.shields.io/badge/-Maintained-green?style=plastic"></a>
 </p>
 
