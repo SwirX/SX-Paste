@@ -28,7 +28,8 @@ To use this extension, you need to have a PasteBin API key, more info on the ext
 
 ## Known Issues
 
-No known issues for the moment.
+Can not save the pastebin api key from the command palette, nor upload.
+The only way working is to set it in the settings.
 
 ## Release Notes
 
